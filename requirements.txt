@@ -1,4 +1,0 @@
-django
-nrclex
-matplotlib
-Pillow
