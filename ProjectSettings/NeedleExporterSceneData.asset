@@ -20,5 +20,9 @@ MonoBehaviour:
     Projects:
     - ProjectPath: nextjs-sample
     BuilderScene: 
+  - Path: Assets/Scenes/Main.unity
+    Projects:
+    - ProjectPath: nextjs-sample
+    BuilderScene: 
   Projects:
   - ProjectPath: nextjs-sample
