@@ -699,7 +699,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 986a3a93ac16ec0428d8989979ec0966, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Needle.Engine.ExportInfo, Needle.Engine.Common $ GlobalObjectId_V1-2-49068307165cdb346a242c48a6528235-784234923-0
-  DirectoryName: nextjs-sample
+  DirectoryName: Assets/nextjs-sample
   RemoteUrl: https://github.com/needle-engine/nextjs-sample
   AutoExport: 1
   Dependencies: []
@@ -745,7 +745,6 @@ GameObject:
   - component: {fileID: 827653722}
   - component: {fileID: 827653721}
   - component: {fileID: 827653720}
-  - component: {fileID: 827653723}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -836,20 +835,6 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
---- !u!114 &827653723
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 827653718}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a70edf661c6eb4f0489cd4f5e6d99ded, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  inputField: {fileID: 1859767134}
-  button: {fileID: 1120117293}
 --- !u!1 &1120117291
 GameObject:
   m_ObjectHideFlags: 0
@@ -1034,6 +1019,23 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -3910990755373119420, guid: f747010238922ae448abd02d66270030, type: 3}
   m_PrefabInstance: {fileID: 1170649121}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1170649123 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8771091787928289351, guid: f747010238922ae448abd02d66270030, type: 3}
+  m_PrefabInstance: {fileID: 1170649121}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1170649124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1170649123}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fa53d7da5ba3065e5fb2ad7fe8999fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1211803451
 GameObject:
   m_ObjectHideFlags: 0
@@ -1565,7 +1567,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1786657970}
   - component: {fileID: 1786657969}
-  - component: {fileID: 1786657971}
   m_Layer: 0
   m_Name: EventSystem
   m_TagString: Untagged
@@ -1604,20 +1605,6 @@ Transform:
   m_Father: {fileID: 1597275518}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1786657971
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1786657968}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a70edf661c6eb4f0489cd4f5e6d99ded, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  inputField: {fileID: 1859767134}
-  button: {fileID: 1120117293}
 --- !u!1 &1840547145
 GameObject:
   m_ObjectHideFlags: 0
@@ -1710,6 +1697,8 @@ GameObject:
   - component: {fileID: 1859767136}
   - component: {fileID: 1859767135}
   - component: {fileID: 1859767134}
+  - component: {fileID: 1859767137}
+  - component: {fileID: 1859767138}
   m_Layer: 5
   m_Name: InputField
   m_TagString: Untagged
@@ -1845,3 +1834,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1859767132}
   m_CullTransparentMesh: 1
+--- !u!114 &1859767137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1859767132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edcb610cfebf4897e943de18250b3a5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1859767138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1859767132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fa53d7da5ba3065e5fb2ad7fe8999fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
