@@ -16,4 +16,9 @@ MonoBehaviour:
   - Path: Assets/VirtualLab.unity
     Projects: []
     BuilderScene: 
-  Projects: []
+  - Path: Assets/Samples/Needle Engine/Next.unity
+    Projects:
+    - ProjectPath: nextjs-sample
+    BuilderScene: 
+  Projects:
+  - ProjectPath: nextjs-sample
