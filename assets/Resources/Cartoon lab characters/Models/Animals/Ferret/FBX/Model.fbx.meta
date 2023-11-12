@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 1a91eb0a44358de43b4049035491da61
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Ferret_Rig:Ferret
+    100002: Ferret_Rig:Ferret_Head_TopSHJnt
+    100004: Ferret_Rig:Ferret_l_Clavicle_AuxSHJnt
+    100006: Ferret_Rig:Ferret_l_FrontLeg_AnkleSHJnt
+    100008: Ferret_Rig:Ferret_l_FrontLeg_BallSHJnt
+    100010: Ferret_Rig:Ferret_l_FrontLeg_HipSHJnt
+    100012: Ferret_Rig:Ferret_l_FrontLeg_KneeSHJnt
+    100014: Ferret_Rig:Ferret_l_FrontLeg_ToeSHJnt
+    100016: Ferret_Rig:Ferret_l_HindLeg_AnkleSHJnt
+    100018: Ferret_Rig:Ferret_l_HindLeg_BallSHJnt
+    100020: Ferret_Rig:Ferret_l_HindLeg_HipSHJnt
+    100022: Ferret_Rig:Ferret_l_HindLeg_Knee1SHJnt
+    100024: Ferret_Rig:Ferret_l_HindLeg_Knee2SHJnt
+    100026: Ferret_Rig:Ferret_l_HindLeg_ToeSHJnt
+    100028: Ferret_Rig:Ferret_MAIN_Ctrl
+    100030: Ferret_Rig:Ferret_MAIN_Ctrl_RestPoseGrp
+    100032: Ferret_Rig:Ferret_MAIN_Inner_Ctrl
+    100034: Ferret_Rig:Ferret_MAIN_Inner_Ctrl_RestPoseGrp
+    100036: Ferret_Rig:Ferret_MAIN_Offset_Ctrl
+    100038: Ferret_Rig:Ferret_MAIN_Offset_Ctrl_RestPoseGrp
+    100040: Ferret_Rig:Ferret_Neck_01SHJnt
+    100042: Ferret_Rig:Ferret_Neck_02SHJnt
+    100044: Ferret_Rig:Ferret_Neck_TopSHJnt
+    100046: Ferret_Rig:Ferret_r_Clavicle_AuxSHJnt
+    100048: Ferret_Rig:Ferret_r_FrontLeg_AnkleSHJnt
+    100050: Ferret_Rig:Ferret_r_FrontLeg_BallSHJnt
+    100052: Ferret_Rig:Ferret_r_FrontLeg_HipSHJnt
+    100054: Ferret_Rig:Ferret_r_FrontLeg_KneeSHJnt
+    100056: Ferret_Rig:Ferret_r_FrontLeg_ToeSHJnt
+    100058: Ferret_Rig:Ferret_r_HindLeg_AnkleSHJnt
+    100060: Ferret_Rig:Ferret_r_HindLeg_BallSHJnt
+    100062: Ferret_Rig:Ferret_r_HindLeg_HipSHJnt
+    100064: Ferret_Rig:Ferret_r_HindLeg_Knee1SHJnt
+    100066: Ferret_Rig:Ferret_r_HindLeg_Knee2SHJnt
+    100068: Ferret_Rig:Ferret_r_HindLeg_ToeSHJnt
+    100070: Ferret_Rig:Ferret_ROOT_Ctrl
+    100072: Ferret_Rig:Ferret_ROOT_Ctrl_RestPoseGrp
+    100074: Ferret_Rig:Ferret_ROOT_CtrlGrp
+    100076: Ferret_Rig:Ferret_ROOTGrp
+    100078: Ferret_Rig:Ferret_ROOTJnt
+    100080: Ferret_Rig:Ferret_ROOTParent_CtrlGrp2
+    100082: Ferret_Rig:Ferret_ROOTSecondary_Ctrl
+    100084: Ferret_Rig:Ferret_ROOTSecondary_Ctrl_RestPoseGrp
+    100086: Ferret_Rig:Ferret_ROOTSHJnt
+    100088: Ferret_Rig:Ferret_SHJntGrp
+    100090: Ferret_Rig:Ferret_Spine_01SHJnt
+    100092: Ferret_Rig:Ferret_Spine_02SHJnt
+    100094: Ferret_Rig:Ferret_Spine_03SHJnt
+    100096: Ferret_Rig:Ferret_Spine_TopSHJnt
+    100098: Ferret_Rig:Ferret_Tail_01_01SHJnt
+    100100: Ferret_Rig:Ferret_Tail_01_02SHJnt
+    100102: Ferret_Rig:Ferret_Tail_01_03SHJnt
+    100104: Ferret_Rig:Ferret_Tail_01_04SHJnt
+    100106: Ferret_Rig:Ferret_Tail_01_05SHJnt
+    100108: Ferret_Rig:Ferret_Tail_01_06SHJnt
+    100110: Ferret_Rig:sk_ferret
+    100112: //RootNode
+    400000: Ferret_Rig:Ferret
+    400002: Ferret_Rig:Ferret_Head_TopSHJnt
+    400004: Ferret_Rig:Ferret_l_Clavicle_AuxSHJnt
+    400006: Ferret_Rig:Ferret_l_FrontLeg_AnkleSHJnt
+    400008: Ferret_Rig:Ferret_l_FrontLeg_BallSHJnt
+    400010: Ferret_Rig:Ferret_l_FrontLeg_HipSHJnt
+    400012: Ferret_Rig:Ferret_l_FrontLeg_KneeSHJnt
+    400014: Ferret_Rig:Ferret_l_FrontLeg_ToeSHJnt
+    400016: Ferret_Rig:Ferret_l_HindLeg_AnkleSHJnt
+    400018: Ferret_Rig:Ferret_l_HindLeg_BallSHJnt
+    400020: Ferret_Rig:Ferret_l_HindLeg_HipSHJnt
+    400022: Ferret_Rig:Ferret_l_HindLeg_Knee1SHJnt
+    400024: Ferret_Rig:Ferret_l_HindLeg_Knee2SHJnt
+    400026: Ferret_Rig:Ferret_l_HindLeg_ToeSHJnt
+    400028: Ferret_Rig:Ferret_MAIN_Ctrl
+    400030: Ferret_Rig:Ferret_MAIN_Ctrl_RestPoseGrp
+    400032: Ferret_Rig:Ferret_MAIN_Inner_Ctrl
+    400034: Ferret_Rig:Ferret_MAIN_Inner_Ctrl_RestPoseGrp
+    400036: Ferret_Rig:Ferret_MAIN_Offset_Ctrl
+    400038: Ferret_Rig:Ferret_MAIN_Offset_Ctrl_RestPoseGrp
+    400040: Ferret_Rig:Ferret_Neck_01SHJnt
+    400042: Ferret_Rig:Ferret_Neck_02SHJnt
+    400044: Ferret_Rig:Ferret_Neck_TopSHJnt
+    400046: Ferret_Rig:Ferret_r_Clavicle_AuxSHJnt
+    400048: Ferret_Rig:Ferret_r_FrontLeg_AnkleSHJnt
+    400050: Ferret_Rig:Ferret_r_FrontLeg_BallSHJnt
+    400052: Ferret_Rig:Ferret_r_FrontLeg_HipSHJnt
+    400054: Ferret_Rig:Ferret_r_FrontLeg_KneeSHJnt
+    400056: Ferret_Rig:Ferret_r_FrontLeg_ToeSHJnt
+    400058: Ferret_Rig:Ferret_r_HindLeg_AnkleSHJnt
+    400060: Ferret_Rig:Ferret_r_HindLeg_BallSHJnt
+    400062: Ferret_Rig:Ferret_r_HindLeg_HipSHJnt
+    400064: Ferret_Rig:Ferret_r_HindLeg_Knee1SHJnt
+    400066: Ferret_Rig:Ferret_r_HindLeg_Knee2SHJnt
+    400068: Ferret_Rig:Ferret_r_HindLeg_ToeSHJnt
+    400070: Ferret_Rig:Ferret_ROOT_Ctrl
+    400072: Ferret_Rig:Ferret_ROOT_Ctrl_RestPoseGrp
+    400074: Ferret_Rig:Ferret_ROOT_CtrlGrp
+    400076: Ferret_Rig:Ferret_ROOTGrp
+    400078: Ferret_Rig:Ferret_ROOTJnt
+    400080: Ferret_Rig:Ferret_ROOTParent_CtrlGrp2
+    400082: Ferret_Rig:Ferret_ROOTSecondary_Ctrl
+    400084: Ferret_Rig:Ferret_ROOTSecondary_Ctrl_RestPoseGrp
+    400086: Ferret_Rig:Ferret_ROOTSHJnt
+    400088: Ferret_Rig:Ferret_SHJntGrp
+    400090: Ferret_Rig:Ferret_Spine_01SHJnt
+    400092: Ferret_Rig:Ferret_Spine_02SHJnt
+    400094: Ferret_Rig:Ferret_Spine_03SHJnt
+    400096: Ferret_Rig:Ferret_Spine_TopSHJnt
+    400098: Ferret_Rig:Ferret_Tail_01_01SHJnt
+    400100: Ferret_Rig:Ferret_Tail_01_02SHJnt
+    400102: Ferret_Rig:Ferret_Tail_01_03SHJnt
+    400104: Ferret_Rig:Ferret_Tail_01_04SHJnt
+    400106: Ferret_Rig:Ferret_Tail_01_05SHJnt
+    400108: Ferret_Rig:Ferret_Tail_01_06SHJnt
+    400110: Ferret_Rig:sk_ferret
+    400112: //RootNode
+    2100000: Ferret_Rig_ferret
+    4300000: Ferret_Rig:sk_ferret
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Ferret_Rig:sk_ferret
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

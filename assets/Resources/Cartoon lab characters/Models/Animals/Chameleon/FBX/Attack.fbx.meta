@@ -1,0 +1,1346 @@
+fileFormatVersion: 2
+guid: 166f7f8e954ff2c479e88e163ec295ef
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Rig2:2_Cube.002
+    100004: Rig2:Ankle_L
+    100006: Rig2:Ankle_R
+    100008: Rig2:Chest_M
+    100010: Rig2:Cube
+    100012: Rig2:DeformationSystem
+    100014: Rig2:Elbow_L
+    100016: Rig2:Elbow_R
+    100018: Rig2:Eye_L
+    100020: Rig2:Eye_R
+    100022: Rig2:EyeEnd_L
+    100024: Rig2:EyeEnd_R
+    100026: Rig2:Fingers1_L
+    100028: Rig2:Fingers1_R
+    100030: Rig2:Fingers2_L
+    100032: Rig2:Fingers2_R
+    100034: Rig2:FKExtraRoot_M
+    100036: Rig2:FKFollowRoot
+    100038: Rig2:FKIKParentConstraintSpine_M
+    100040: Rig2:FKIKSpine_M
+    100042: Rig2:FKIKSystem
+    100044: Rig2:FKOffsetRoot_M
+    100046: Rig2:FKRoot_M
+    100048: Rig2:FKSystem
+    100050: Rig2:FKXRoot_M
+    100052: Rig2:Group
+    100054: Rig2:Head_M
+    100056: Rig2:HeadEnd_M
+    100058: Rig2:Hip_L
+    100060: Rig2:Hip_R
+    100062: Rig2:HipSwinger_M
+    100064: Rig2:HipSwingerOffset_M
+    100066: Rig2:HipSwingerStabilizerTarget
+    100068: Rig2:HipSwingReverse
+    100070: Rig2:HipSwingReversePart1
+    100072: Rig2:HipSwingReversePart2
+    100074: Rig2:HipSwingReverseRoot
+    100076: Rig2:HipSwingReverseXPart2
+    100078: Rig2:IKAcRootFollowOffset_M
+    100080: Rig2:IKExtraSpine1_M
+    100082: Rig2:IKExtraSpine2_M
+    100084: Rig2:IKExtraSpine3_M
+    100086: Rig2:IKfake0Spine_M
+    100088: Rig2:IKFixedOrientRoot_M
+    100090: Rig2:IKHandle
+    100092: Rig2:IKhybridExtraSpine1_M
+    100094: Rig2:IKhybridExtraSpine2_M
+    100096: Rig2:IKhybridExtraSpine3_M
+    100098: Rig2:IKhybridFollowSpine1_M
+    100100: Rig2:IKhybridOffsetSpine1_M
+    100102: Rig2:IKhybridOffsetSpine2_M
+    100104: Rig2:IKhybridOffsetSpine3_M
+    100106: Rig2:IKhybridSpine1_M
+    100108: Rig2:IKhybridSpine2_M
+    100110: Rig2:IKhybridSpine3_M
+    100112: Rig2:IKJoints
+    100114: Rig2:IKOffsetConstrainedSpine1_M
+    100116: Rig2:IKOffsetSpine1_M
+    100118: Rig2:IKOffsetSpine2_M
+    100120: Rig2:IKOffsetSpine3_M
+    100122: Rig2:IKParentConstraintRoot_M
+    100124: Rig2:IKScalerRoot_M
+    100126: Rig2:IKSpine1_M
+    100128: Rig2:IKSpine1LocalOrient1_M
+    100130: Rig2:IKSpine1LocalOrient2_M
+    100132: Rig2:IKSpine2_M
+    100134: Rig2:IKSpine2LocalOrient1_M
+    100136: Rig2:IKSpine2LocalOrient2_M
+    100138: Rig2:IKSpine3_M
+    100140: Rig2:IKSpine3LocalOrient1_M
+    100142: Rig2:IKSpine3LocalOrient2_M
+    100144: Rig2:IKSpRootFollowOffset_M
+    100146: Rig2:IKSystem
+    100148: Rig2:IKXOffsetRoot_M
+    100150: Rig2:IKXRoot_M
+    100152: Rig2:IndexFinger1_L
+    100154: Rig2:IndexFinger1_R
+    100156: Rig2:IndexFinger2_L
+    100158: Rig2:IndexFinger2_R
+    100160: Rig2:IndexFinger3_L
+    100162: Rig2:IndexFinger3_R
+    100164: Rig2:IndexFinger4_L
+    100166: Rig2:IndexFinger4_R
+    100168: Rig2:IndexToe1_L
+    100170: Rig2:IndexToe1_R
+    100172: Rig2:IndexToe2_L
+    100174: Rig2:IndexToe2_R
+    100176: Rig2:IndexToe3_L
+    100178: Rig2:IndexToe3_R
+    100180: Rig2:IndexToe4_L
+    100182: Rig2:IndexToe4_R
+    100184: Rig2:Jaw_M
+    100186: Rig2:JawEnd_M
+    100188: Rig2:Knee_L
+    100190: Rig2:Knee_R
+    100192: Rig2:Main
+    100194: Rig2:MainSystem
+    100196: Rig2:MiddleFinger1_L
+    100198: Rig2:MiddleFinger1_R
+    100200: Rig2:MiddleFinger2_L
+    100202: Rig2:MiddleFinger2_R
+    100204: Rig2:MiddleFinger3_L
+    100206: Rig2:MiddleFinger3_R
+    100208: Rig2:MiddleFinger4_L
+    100210: Rig2:MiddleFinger4_R
+    100212: Rig2:MiddleToe1_L
+    100214: Rig2:MiddleToe1_R
+    100216: Rig2:MiddleToe2_L
+    100218: Rig2:MiddleToe2_R
+    100220: Rig2:MiddleToe3_L
+    100222: Rig2:MiddleToe3_R
+    100224: Rig2:MiddleToe4_L
+    100226: Rig2:MiddleToe4_R
+    100228: Rig2:MotionSystem
+    100230: Rig2:Neck1_M
+    100232: Rig2:Neck2_M
+    100234: Rig2:Neck_M
+    100236: Rig2:PinkyFinger1_L
+    100238: Rig2:PinkyFinger1_R
+    100240: Rig2:PinkyFinger2_L
+    100242: Rig2:PinkyFinger2_R
+    100244: Rig2:PinkyFinger3_L
+    100246: Rig2:PinkyFinger3_R
+    100248: Rig2:PinkyFinger4_L
+    100250: Rig2:PinkyFinger4_R
+    100252: Rig2:PinkyToe1_L
+    100254: Rig2:PinkyToe1_R
+    100256: Rig2:PinkyToe2_L
+    100258: Rig2:PinkyToe2_R
+    100260: Rig2:PinkyToe3_L
+    100262: Rig2:PinkyToe3_R
+    100264: Rig2:PinkyToe4_L
+    100266: Rig2:PinkyToe4_R
+    100268: Rig2:RingFinger1_L
+    100270: Rig2:RingFinger1_R
+    100272: Rig2:RingFinger2_L
+    100274: Rig2:RingFinger2_R
+    100276: Rig2:RingFinger3_L
+    100278: Rig2:RingFinger3_R
+    100280: Rig2:RingFinger4_L
+    100282: Rig2:RingFinger4_R
+    100284: Rig2:RingToe1_L
+    100286: Rig2:RingToe1_R
+    100288: Rig2:RingToe2_L
+    100290: Rig2:RingToe2_R
+    100292: Rig2:RingToe3_L
+    100294: Rig2:RingToe3_R
+    100296: Rig2:RingToe4_L
+    100298: Rig2:RingToe4_R
+    100300: Rig2:Root_M
+    100302: Rig2:RootPart1_M
+    100304: Rig2:RootPart2_M
+    100306: Rig2:Scapula_L
+    100308: Rig2:Scapula_R
+    100310: Rig2:Shoulder_L
+    100312: Rig2:Shoulder_R
+    100314: Rig2:Spine1_M
+    100316: Rig2:Spine2_M
+    100318: Rig2:Spine3_M
+    100320: Rig2:Tail0_M
+    100322: Rig2:Tail1_M
+    100324: Rig2:Tail2_M
+    100326: Rig2:Tail3_M
+    100328: Rig2:Tail4_M
+    100330: Rig2:Tail5_M
+    100332: Rig2:Tail6_M
+    100334: Rig2:Toes1_L
+    100336: Rig2:Toes1_R
+    100338: Rig2:Toes2_L
+    100340: Rig2:Toes2_R
+    100342: Rig2:Wrist_L
+    100344: Rig2:Wrist_R
+    400000: //RootNode
+    400002: Rig2:2_Cube.002
+    400004: Rig2:Ankle_L
+    400006: Rig2:Ankle_R
+    400008: Rig2:Chest_M
+    400010: Rig2:Cube
+    400012: Rig2:DeformationSystem
+    400014: Rig2:Elbow_L
+    400016: Rig2:Elbow_R
+    400018: Rig2:Eye_L
+    400020: Rig2:Eye_R
+    400022: Rig2:EyeEnd_L
+    400024: Rig2:EyeEnd_R
+    400026: Rig2:Fingers1_L
+    400028: Rig2:Fingers1_R
+    400030: Rig2:Fingers2_L
+    400032: Rig2:Fingers2_R
+    400034: Rig2:FKExtraRoot_M
+    400036: Rig2:FKFollowRoot
+    400038: Rig2:FKIKParentConstraintSpine_M
+    400040: Rig2:FKIKSpine_M
+    400042: Rig2:FKIKSystem
+    400044: Rig2:FKOffsetRoot_M
+    400046: Rig2:FKRoot_M
+    400048: Rig2:FKSystem
+    400050: Rig2:FKXRoot_M
+    400052: Rig2:Group
+    400054: Rig2:Head_M
+    400056: Rig2:HeadEnd_M
+    400058: Rig2:Hip_L
+    400060: Rig2:Hip_R
+    400062: Rig2:HipSwinger_M
+    400064: Rig2:HipSwingerOffset_M
+    400066: Rig2:HipSwingerStabilizerTarget
+    400068: Rig2:HipSwingReverse
+    400070: Rig2:HipSwingReversePart1
+    400072: Rig2:HipSwingReversePart2
+    400074: Rig2:HipSwingReverseRoot
+    400076: Rig2:HipSwingReverseXPart2
+    400078: Rig2:IKAcRootFollowOffset_M
+    400080: Rig2:IKExtraSpine1_M
+    400082: Rig2:IKExtraSpine2_M
+    400084: Rig2:IKExtraSpine3_M
+    400086: Rig2:IKfake0Spine_M
+    400088: Rig2:IKFixedOrientRoot_M
+    400090: Rig2:IKHandle
+    400092: Rig2:IKhybridExtraSpine1_M
+    400094: Rig2:IKhybridExtraSpine2_M
+    400096: Rig2:IKhybridExtraSpine3_M
+    400098: Rig2:IKhybridFollowSpine1_M
+    400100: Rig2:IKhybridOffsetSpine1_M
+    400102: Rig2:IKhybridOffsetSpine2_M
+    400104: Rig2:IKhybridOffsetSpine3_M
+    400106: Rig2:IKhybridSpine1_M
+    400108: Rig2:IKhybridSpine2_M
+    400110: Rig2:IKhybridSpine3_M
+    400112: Rig2:IKJoints
+    400114: Rig2:IKOffsetConstrainedSpine1_M
+    400116: Rig2:IKOffsetSpine1_M
+    400118: Rig2:IKOffsetSpine2_M
+    400120: Rig2:IKOffsetSpine3_M
+    400122: Rig2:IKParentConstraintRoot_M
+    400124: Rig2:IKScalerRoot_M
+    400126: Rig2:IKSpine1_M
+    400128: Rig2:IKSpine1LocalOrient1_M
+    400130: Rig2:IKSpine1LocalOrient2_M
+    400132: Rig2:IKSpine2_M
+    400134: Rig2:IKSpine2LocalOrient1_M
+    400136: Rig2:IKSpine2LocalOrient2_M
+    400138: Rig2:IKSpine3_M
+    400140: Rig2:IKSpine3LocalOrient1_M
+    400142: Rig2:IKSpine3LocalOrient2_M
+    400144: Rig2:IKSpRootFollowOffset_M
+    400146: Rig2:IKSystem
+    400148: Rig2:IKXOffsetRoot_M
+    400150: Rig2:IKXRoot_M
+    400152: Rig2:IndexFinger1_L
+    400154: Rig2:IndexFinger1_R
+    400156: Rig2:IndexFinger2_L
+    400158: Rig2:IndexFinger2_R
+    400160: Rig2:IndexFinger3_L
+    400162: Rig2:IndexFinger3_R
+    400164: Rig2:IndexFinger4_L
+    400166: Rig2:IndexFinger4_R
+    400168: Rig2:IndexToe1_L
+    400170: Rig2:IndexToe1_R
+    400172: Rig2:IndexToe2_L
+    400174: Rig2:IndexToe2_R
+    400176: Rig2:IndexToe3_L
+    400178: Rig2:IndexToe3_R
+    400180: Rig2:IndexToe4_L
+    400182: Rig2:IndexToe4_R
+    400184: Rig2:Jaw_M
+    400186: Rig2:JawEnd_M
+    400188: Rig2:Knee_L
+    400190: Rig2:Knee_R
+    400192: Rig2:Main
+    400194: Rig2:MainSystem
+    400196: Rig2:MiddleFinger1_L
+    400198: Rig2:MiddleFinger1_R
+    400200: Rig2:MiddleFinger2_L
+    400202: Rig2:MiddleFinger2_R
+    400204: Rig2:MiddleFinger3_L
+    400206: Rig2:MiddleFinger3_R
+    400208: Rig2:MiddleFinger4_L
+    400210: Rig2:MiddleFinger4_R
+    400212: Rig2:MiddleToe1_L
+    400214: Rig2:MiddleToe1_R
+    400216: Rig2:MiddleToe2_L
+    400218: Rig2:MiddleToe2_R
+    400220: Rig2:MiddleToe3_L
+    400222: Rig2:MiddleToe3_R
+    400224: Rig2:MiddleToe4_L
+    400226: Rig2:MiddleToe4_R
+    400228: Rig2:MotionSystem
+    400230: Rig2:Neck1_M
+    400232: Rig2:Neck2_M
+    400234: Rig2:Neck_M
+    400236: Rig2:PinkyFinger1_L
+    400238: Rig2:PinkyFinger1_R
+    400240: Rig2:PinkyFinger2_L
+    400242: Rig2:PinkyFinger2_R
+    400244: Rig2:PinkyFinger3_L
+    400246: Rig2:PinkyFinger3_R
+    400248: Rig2:PinkyFinger4_L
+    400250: Rig2:PinkyFinger4_R
+    400252: Rig2:PinkyToe1_L
+    400254: Rig2:PinkyToe1_R
+    400256: Rig2:PinkyToe2_L
+    400258: Rig2:PinkyToe2_R
+    400260: Rig2:PinkyToe3_L
+    400262: Rig2:PinkyToe3_R
+    400264: Rig2:PinkyToe4_L
+    400266: Rig2:PinkyToe4_R
+    400268: Rig2:RingFinger1_L
+    400270: Rig2:RingFinger1_R
+    400272: Rig2:RingFinger2_L
+    400274: Rig2:RingFinger2_R
+    400276: Rig2:RingFinger3_L
+    400278: Rig2:RingFinger3_R
+    400280: Rig2:RingFinger4_L
+    400282: Rig2:RingFinger4_R
+    400284: Rig2:RingToe1_L
+    400286: Rig2:RingToe1_R
+    400288: Rig2:RingToe2_L
+    400290: Rig2:RingToe2_R
+    400292: Rig2:RingToe3_L
+    400294: Rig2:RingToe3_R
+    400296: Rig2:RingToe4_L
+    400298: Rig2:RingToe4_R
+    400300: Rig2:Root_M
+    400302: Rig2:RootPart1_M
+    400304: Rig2:RootPart2_M
+    400306: Rig2:Scapula_L
+    400308: Rig2:Scapula_R
+    400310: Rig2:Shoulder_L
+    400312: Rig2:Shoulder_R
+    400314: Rig2:Spine1_M
+    400316: Rig2:Spine2_M
+    400318: Rig2:Spine3_M
+    400320: Rig2:Tail0_M
+    400322: Rig2:Tail1_M
+    400324: Rig2:Tail2_M
+    400326: Rig2:Tail3_M
+    400328: Rig2:Tail4_M
+    400330: Rig2:Tail5_M
+    400332: Rig2:Tail6_M
+    400334: Rig2:Toes1_L
+    400336: Rig2:Toes1_R
+    400338: Rig2:Toes2_L
+    400340: Rig2:Toes2_R
+    400342: Rig2:Wrist_L
+    400344: Rig2:Wrist_R
+    4300000: Rig2:2_Cube.002
+    4300002: Rig2:Cube
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Rig2:2_Cube.002
+    13700002: Rig2:Cube
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rig2_Material.001
+    second: {fileID: 2100000, guid: 72bd5193858bf6248997d9559158ff5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rig2_Material.002
+    second: {fileID: 2100000, guid: 48cc8094fae42824b947a7a57bc6d578, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: Attack(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:2_Cube.002
+      parentName: Attack(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Group
+      parentName: Attack(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:MotionSystem
+      parentName: Rig2:Group
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:MainSystem
+      parentName: Rig2:MotionSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Main
+      parentName: Rig2:MainSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:FKSystem
+      parentName: Rig2:MotionSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:FKFollowRoot
+      parentName: Rig2:FKSystem
+      position: {x: -3.2328444e-25, y: 0.016444413, z: -0.007925497}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:FKOffsetRoot_M
+      parentName: Rig2:FKFollowRoot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.6941863, y: 0.13455632, z: 0.6941863, w: -0.13455632}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:FKExtraRoot_M
+      parentName: Rig2:FKOffsetRoot_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:FKRoot_M
+      parentName: Rig2:FKExtraRoot_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:HipSwingerOffset_M
+      parentName: Rig2:FKRoot_M
+      position: {x: -0.0026392676, y: 2.3491832e-11, z: -0.0035710235}
+      rotation: {x: 0, y: -0.000000011312926, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:HipSwinger_M
+      parentName: Rig2:HipSwingerOffset_M
+      position: {x: -5.551115e-19, y: -2.220446e-18, z: -2.4815418e-26}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:HipSwingerStabilizerTarget
+      parentName: Rig2:FKRoot_M
+      position: {x: -0.0026392676, y: 2.349183e-11, z: -0.0035710235}
+      rotation: {x: 0, y: -0.000000011312926, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:HipSwingReverse
+      parentName: Rig2:FKRoot_M
+      position: {x: -0.005278535, y: -1.3322676e-17, z: 4.9966838e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:HipSwingReversePart1
+      parentName: Rig2:HipSwingReverse
+      position: {x: 0.0017595118, y: 0, z: 0}
+      rotation: {x: 0, y: -0.000000011312926, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:HipSwingReversePart2
+      parentName: Rig2:HipSwingReversePart1
+      position: {x: 0.0017595118, y: 0, z: 0}
+      rotation: {x: 0, y: -5.514538e-25, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:HipSwingReverseRoot
+      parentName: Rig2:HipSwingReversePart2
+      position: {x: 0.0017595118, y: 1.3322676e-17, z: -7.962091e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:HipSwingReverseXPart2
+      parentName: Rig2:HipSwingReverse
+      position: {x: 0.0035190235, y: -2.220446e-18, z: -3.3087224e-26}
+      rotation: {x: 0, y: -0.000000011312926, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:FKXRoot_M
+      parentName: Rig2:FKExtraRoot_M
+      position: {x: -1.9428903e-18, y: -2.220446e-18, z: -4.9630836e-26}
+      rotation: {x: 0, y: -0.000000022625851, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKSystem
+      parentName: Rig2:MotionSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKJoints
+      parentName: Rig2:IKSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKParentConstraintRoot_M
+      parentName: Rig2:IKJoints
+      position: {x: -4.8266924e-38, y: 0.016444413, z: -0.007925497}
+      rotation: {x: -0.6941863, y: 0.13455632, z: 0.6941863, w: -0.13455632}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKXOffsetRoot_M
+      parentName: Rig2:IKParentConstraintRoot_M
+      position: {x: 1.110223e-18, y: -2.220446e-18, z: -3.3087224e-26}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKXRoot_M
+      parentName: Rig2:IKXOffsetRoot_M
+      position: {x: -2.220446e-18, y: -2.220446e-18, z: 2.3161057e-25}
+      rotation: {x: 0, y: -0.000000011312926, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKfake0Spine_M
+      parentName: Rig2:IKParentConstraintRoot_M
+      position: {x: -2.220446e-18, y: -4.440892e-18, z: 3.4741585e-25}
+      rotation: {x: -0.000000040122604, y: 2.5316702e-22, z: 9.078081e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKFixedOrientRoot_M
+      parentName: Rig2:IKfake0Spine_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000032276528, y: -0.000000040478508, z: 1.3065058e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKAcRootFollowOffset_M
+      parentName: Rig2:IKFixedOrientRoot_M
+      position: {x: -1.110223e-18, y: 0, z: 0}
+      rotation: {x: 0, y: 0.000000040478508, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKSpRootFollowOffset_M
+      parentName: Rig2:IKFixedOrientRoot_M
+      position: {x: -1.110223e-18, y: 0, z: 6.617445e-26}
+      rotation: {x: 0, y: 0.000000040478508, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKHandle
+      parentName: Rig2:IKSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKOffsetSpine2_M
+      parentName: Rig2:IKHandle
+      position: {x: 8.6684386e-17, y: 0.01947011, z: 0.0034925512}
+      rotation: {x: 0, y: 3.3087225e-24, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKExtraSpine2_M
+      parentName: Rig2:IKOffsetSpine2_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKSpine2_M
+      parentName: Rig2:IKExtraSpine2_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKSpine2LocalOrient1_M
+      parentName: Rig2:IKSpine2_M
+      position: {x: 4.5156984e-26, y: -4.440892e-18, z: 2.7755574e-18}
+      rotation: {x: -0.6941863, y: 0.13455632, z: 0.6941863, w: -0.13455632}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKSpine2LocalOrient2_M
+      parentName: Rig2:IKSpine2LocalOrient1_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKOffsetConstrainedSpine1_M
+      parentName: Rig2:IKHandle
+      position: {x: -3.2328444e-25, y: 0.016444413, z: -0.007925497}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKhybridOffsetSpine1_M
+      parentName: Rig2:IKOffsetConstrainedSpine1_M
+      position: {x: 4.4373424e-33, y: 0, z: 0}
+      rotation: {x: -0.69418633, y: 0.13455632, z: 0.69418633, w: -0.13455634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKOffsetSpine1_M
+      parentName: Rig2:IKhybridOffsetSpine1_M
+      position: {x: -1.110223e-18, y: 0, z: 6.617445e-26}
+      rotation: {x: 0.69418633, y: -0.13455632, z: -0.69418633, w: -0.13455634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKExtraSpine1_M
+      parentName: Rig2:IKOffsetSpine1_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKSpine1_M
+      parentName: Rig2:IKExtraSpine1_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKSpine1LocalOrient1_M
+      parentName: Rig2:IKSpine1_M
+      position: {x: 1.0877772e-25, y: 0, z: 2.220446e-18}
+      rotation: {x: -0.6941863, y: 0.13455632, z: 0.6941863, w: -0.13455632}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKSpine1LocalOrient2_M
+      parentName: Rig2:IKSpine1LocalOrient1_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKhybridFollowSpine1_M
+      parentName: Rig2:IKhybridOffsetSpine1_M
+      position: {x: 5.551115e-19, y: 0, z: -1.323489e-25}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKhybridExtraSpine1_M
+      parentName: Rig2:IKhybridFollowSpine1_M
+      position: {x: -1.110223e-18, y: 0, z: 6.617445e-26}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKhybridSpine1_M
+      parentName: Rig2:IKhybridExtraSpine1_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKhybridOffsetSpine2_M
+      parentName: Rig2:IKhybridSpine1_M
+      position: {x: -0.011721623, y: 0.0014595371, z: 4.7955045e-10}
+      rotation: {x: 0.0000000033395249, y: 0.000000020690404, z: -0.15934233, w: 0.9872234}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKhybridExtraSpine2_M
+      parentName: Rig2:IKhybridOffsetSpine2_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKhybridSpine2_M
+      parentName: Rig2:IKhybridExtraSpine2_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKhybridOffsetSpine3_M
+      parentName: Rig2:IKhybridSpine2_M
+      position: {x: -0.011731047, y: 0.0017666771, z: -3.9688736e-10}
+      rotation: {x: 0, y: -0, z: -0.11604969, w: 0.9932434}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKhybridExtraSpine3_M
+      parentName: Rig2:IKhybridOffsetSpine3_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKhybridSpine3_M
+      parentName: Rig2:IKhybridExtraSpine3_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKOffsetSpine3_M
+      parentName: Rig2:IKhybridSpine3_M
+      position: {x: -0, y: -4.440892e-18, z: -6.617445e-26}
+      rotation: {x: 0.7045613, y: 0.05994526, z: -0.70456123, w: 0.05994526}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKExtraSpine3_M
+      parentName: Rig2:IKOffsetSpine3_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKSpine3_M
+      parentName: Rig2:IKExtraSpine3_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKSpine3LocalOrient1_M
+      parentName: Rig2:IKSpine3_M
+      position: {x: 1.323489e-25, y: 2.220446e-18, z: -2.220446e-18}
+      rotation: {x: -0.7070437, y: -0.009447604, z: 0.7070437, w: 0.009447604}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKSpine3LocalOrient2_M
+      parentName: Rig2:IKSpine3LocalOrient1_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IKScalerRoot_M
+      parentName: Rig2:IKHandle
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:FKIKSystem
+      parentName: Rig2:MotionSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:FKIKParentConstraintSpine_M
+      parentName: Rig2:FKIKSystem
+      position: {x: -2.0960562e-25, y: 0.016444413, z: -0.007925497}
+      rotation: {x: -0.6941863, y: 0.13455635, z: 0.6941863, w: -0.13455626}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:FKIKSpine_M
+      parentName: Rig2:FKIKParentConstraintSpine_M
+      position: {x: -0.0044001057, y: 4.440892e-18, z: 0.0034307523}
+      rotation: {x: 0.69418633, y: -0.13455632, z: -0.69418633, w: -0.13455634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:DeformationSystem
+      parentName: Rig2:Group
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Root_M
+      parentName: Rig2:DeformationSystem
+      position: {x: -2.0960562e-25, y: 0.0063468684, z: -0.001140412}
+      rotation: {x: -0.3957181, y: 0.5860095, z: 0.39571816, w: -0.5860095}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:RootPart1_M
+      parentName: Rig2:Root_M
+      position: {x: -0.0017595118, y: 4.440892e-18, z: 3.9810454e-11}
+      rotation: {x: 0, y: 0.000000019477211, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:RootPart2_M
+      parentName: Rig2:RootPart1_M
+      position: {x: -0.0017595118, y: 0, z: -2.8730306e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Spine1_M
+      parentName: Rig2:RootPart2_M
+      position: {x: -0.0017595118, y: -1.9984014e-17, z: -2.8730301e-11}
+      rotation: {x: 0, y: -0, z: -0.08338645, w: 0.9965173}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Spine2_M
+      parentName: Rig2:Spine1_M
+      position: {x: -0.0070469114, y: 2.8865798e-17, z: -1.1346579e-10}
+      rotation: {x: 0, y: -0, z: -0.15657009, w: 0.98766685}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Spine3_M
+      parentName: Rig2:Spine2_M
+      position: {x: -0.0066601643, y: 8.881784e-18, z: -9.63911e-11}
+      rotation: {x: 0, y: -0, z: -0.03562832, w: 0.9993651}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Chest_M
+      parentName: Rig2:Spine3_M
+      position: {x: -0.0048999665, y: -6.661338e-17, z: -8.506034e-11}
+      rotation: {x: 0.0000000012105869, y: -0.00000001689864, z: 0.07145501, w: 0.99744385}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Scapula_R
+      parentName: Rig2:Chest_M
+      position: {x: 0.0030232077, y: -0.0010023047, z: -0.00908537}
+      rotation: {x: 0.7290492, y: -0.54793334, z: 0.2987153, w: 0.28111473}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Shoulder_R
+      parentName: Rig2:Scapula_R
+      position: {x: -0.0056876545, y: -0.00067665265, z: 0.0026032582}
+      rotation: {x: -0.20828538, y: 0.31364533, z: 0.12664004, w: 0.91771793}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Elbow_R
+      parentName: Rig2:Shoulder_R
+      position: {x: -0.0072250855, y: 1.110223e-18, z: 3.5527136e-17}
+      rotation: {x: 0.0017259867, y: 0.016004922, z: -0.03533951, w: 0.9992457}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Wrist_R
+      parentName: Rig2:Elbow_R
+      position: {x: -0.0034712597, y: -1.3322676e-17, z: -4.440892e-18}
+      rotation: {x: 0.15436956, y: -0.010822396, z: -0.07881004, w: 0.9848055}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Fingers1_R
+      parentName: Rig2:Wrist_R
+      position: {x: -0.0028667115, y: 2.220446e-18, z: -1.4654943e-16}
+      rotation: {x: 0.0295975, y: 0.05530997, z: -0.47088367, w: 0.8799622}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Fingers2_R
+      parentName: Rig2:Fingers1_R
+      position: {x: -0.00560814, y: 2.5535128e-17, z: -4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:RingFinger1_R
+      parentName: Rig2:Fingers1_R
+      position: {x: -0.00006221114, y: -5.5511148e-18, z: 0.0004929231}
+      rotation: {x: 0.86142814, y: 0.5050584, z: 0.011117918, w: -0.0522875}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:RingFinger2_R
+      parentName: Rig2:RingFinger1_R
+      position: {x: -0.003419593, y: 1.8041123e-18, z: 2.220446e-18}
+      rotation: {x: 0.99916536, y: -0.00081294763, z: 0.040840756, w: -0.00006121769}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:RingFinger3_R
+      parentName: Rig2:RingFinger2_R
+      position: {x: -0.0016807903, y: 1.8041123e-18, z: -8.280472e-12}
+      rotation: {x: -5.8437255e-11, y: -0.0000003724092, z: -0.00015691678, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:RingFinger4_R
+      parentName: Rig2:RingFinger3_R
+      position: {x: -0.0019585984, y: -2.441103e-16, z: -1.1105998e-11}
+      rotation: {x: 0.00000010595476, y: -0.000005405117, z: 5.7269787e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:PinkyFinger1_R
+      parentName: Rig2:Fingers1_R
+      position: {x: -0.00026054587, y: 0.00028469457, z: 0.0022622973}
+      rotation: {x: 0.085626625, y: 0.02782854, z: 0.42439812, w: 0.9009883}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:PinkyFinger2_R
+      parentName: Rig2:PinkyFinger1_R
+      position: {x: -0.0014834093, y: 5.551115e-19, z: -2.220446e-18}
+      rotation: {x: 0.000000037252896, y: -0.039368007, z: 0.00000046117918, w: 0.9992248}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:PinkyFinger3_R
+      parentName: Rig2:PinkyFinger2_R
+      position: {x: -0.0013332191, y: -1.9428903e-18, z: 0}
+      rotation: {x: 1.770084e-10, y: 0.010558054, z: -0.000000016764313, w: 0.99994427}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:PinkyFinger4_R
+      parentName: Rig2:PinkyFinger3_R
+      position: {x: -0.0015571092, y: -1.6459412e-11, z: -0.0000103736675}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:MiddleFinger1_R
+      parentName: Rig2:Fingers1_R
+      position: {x: 0.0000003965088, y: -5.5511148e-18, z: -0.0000031416935}
+      rotation: {x: -0.026221197, y: -0.057575557, z: 0.41679195, w: 0.90679765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:MiddleFinger2_R
+      parentName: Rig2:MiddleFinger1_R
+      position: {x: -0.0007086969, y: 0.0000000030829497, z: 0.0000000041209915}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:MiddleFinger3_R
+      parentName: Rig2:MiddleFinger2_R
+      position: {x: -0.0007086969, y: 2.4824056e-11, z: 1.18038955e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:MiddleFinger4_R
+      parentName: Rig2:MiddleFinger3_R
+      position: {x: -0.0007086969, y: -1.1379786e-17, z: 3.0315416e-12}
+      rotation: {x: -0.00000009821916, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IndexFinger1_R
+      parentName: Rig2:Fingers1_R
+      position: {x: -0.00086563465, y: 0.00008827049, z: -0.001240664}
+      rotation: {x: -0.06239629, y: -0.087552875, z: 0.41483942, w: 0.9035206}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IndexFinger2_R
+      parentName: Rig2:IndexFinger1_R
+      position: {x: -0.001290403, y: 1.6653345e-18, z: -8.881784e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IndexFinger3_R
+      parentName: Rig2:IndexFinger2_R
+      position: {x: -0.0012778847, y: 2.0816682e-17, z: -7.009426e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IndexFinger4_R
+      parentName: Rig2:IndexFinger3_R
+      position: {x: -0.0018120154, y: 1.9706458e-17, z: -7.0094395e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Neck_M
+      parentName: Rig2:Chest_M
+      position: {x: -0.0025190895, y: 0.0007602563, z: -1.6122971e-12}
+      rotation: {x: 0.0014189747, y: -0.013328674, z: 0.047236193, w: 0.99879384}
+      scale: {x: 1.0088875, y: 1.0088875, z: 1.0088875}
+    - name: Rig2:Neck1_M
+      parentName: Rig2:Neck_M
+      position: {x: -0.0016909685, y: 0.0000014376261, z: -0.00000020267363}
+      rotation: {x: 0.000317609, y: -0.006208596, z: 0.07248734, w: 0.99735}
+      scale: {x: 1.017775, y: 1.017775, z: 1.017775}
+    - name: Rig2:Neck2_M
+      parentName: Rig2:Neck1_M
+      position: {x: -0.0017234928, y: 0.0000035084877, z: 0.00000035612666}
+      rotation: {x: -0.0015819491, y: -0.0018710754, z: 0.1313264, w: 0.99133617}
+      scale: {x: 1.017775, y: 1.017775, z: 1.017775}
+    - name: Rig2:Head_M
+      parentName: Rig2:Neck2_M
+      position: {x: -0.0024404451, y: -0.000009860199, z: -0.0000007060162}
+      rotation: {x: 0.008921863, y: 0.019692453, z: 0.05129367, w: 0.9984496}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:HeadEnd_M
+      parentName: Rig2:Head_M
+      position: {x: -0.012268528, y: -2.220446e-18, z: 6.7590884e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Eye_R
+      parentName: Rig2:Head_M
+      position: {x: -0.0043667885, y: 0.0053033037, z: -0.0057440517}
+      rotation: {x: -0.06387249, y: -0.22879009, z: -0.29290763, w: 0.92616445}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:EyeEnd_R
+      parentName: Rig2:Eye_R
+      position: {x: -0.005151091, y: 6.661338e-18, z: -6.661338e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Eye_L
+      parentName: Rig2:Head_M
+      position: {x: -0.0043667885, y: 0.0053033037, z: 0.0057440517}
+      rotation: {x: 0.06387248, y: 0.22879009, z: -0.29290763, w: 0.92616445}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:EyeEnd_L
+      parentName: Rig2:Eye_L
+      position: {x: -0.005151091, y: 2.220446e-18, z: 2.220446e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Jaw_M
+      parentName: Rig2:Head_M
+      position: {x: 0.0024232136, y: 0.007895344, z: 4.512887e-11}
+      rotation: {x: 0, y: -0, z: -0.28767586, w: 0.95772785}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:JawEnd_M
+      parentName: Rig2:Jaw_M
+      position: {x: -0.010793129, y: 4.440892e-18, z: -1.5680267e-19}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Scapula_L
+      parentName: Rig2:Chest_M
+      position: {x: 0.0030232077, y: -0.0010023047, z: 0.00908537}
+      rotation: {x: 0.54793346, y: 0.72904927, z: 0.28111452, w: -0.29871544}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Shoulder_L
+      parentName: Rig2:Scapula_L
+      position: {x: 0.0056876545, y: 0.00067665265, z: -0.0026032582}
+      rotation: {x: -0.2082855, y: 0.31364533, z: 0.1266399, w: 0.9177179}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Elbow_L
+      parentName: Rig2:Shoulder_L
+      position: {x: 0.0072250855, y: -1.6106883e-12, z: 4.047447e-12}
+      rotation: {x: 0.0017259268, y: 0.016005514, z: -0.03533906, w: 0.99924576}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Wrist_L
+      parentName: Rig2:Elbow_L
+      position: {x: 0.0034712597, y: -7.738299e-13, z: 6.5745185e-13}
+      rotation: {x: 0.15436926, y: -0.010822664, z: -0.07880894, w: 0.9848057}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Fingers1_L
+      parentName: Rig2:Wrist_L
+      position: {x: 0.0028667115, y: -9.131917e-13, z: -2.553011e-12}
+      rotation: {x: 0.029597392, y: 0.055310026, z: -0.47088364, w: 0.8799622}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Fingers2_L
+      parentName: Rig2:Fingers1_L
+      position: {x: 0.00560814, y: -1.2052967e-12, z: -1.5795375e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IndexFinger1_L
+      parentName: Rig2:Fingers1_L
+      position: {x: 0.00086563465, y: -0.00008827049, z: 0.001240664}
+      rotation: {x: -0.062395677, y: -0.087552845, z: 0.41483876, w: 0.90352106}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IndexFinger2_L
+      parentName: Rig2:IndexFinger1_L
+      position: {x: 0.001290403, y: -5.8545914e-13, z: -3.703593e-12}
+      rotation: {x: -1.0487759e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IndexFinger3_L
+      parentName: Rig2:IndexFinger2_L
+      position: {x: 0.0012778847, y: -5.7979955e-13, z: 3.34176e-12}
+      rotation: {x: -1.1529075e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IndexFinger4_L
+      parentName: Rig2:IndexFinger3_L
+      position: {x: 0.0018120154, y: -8.2213403e-13, z: 1.8087442e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:RingFinger1_L
+      parentName: Rig2:Fingers1_L
+      position: {x: 0.00006221114, y: 4.0125097e-13, z: -0.0004929231}
+      rotation: {x: 0.86142886, y: 0.5050573, z: 0.011118096, w: -0.05228738}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:RingFinger2_L
+      parentName: Rig2:RingFinger1_L
+      position: {x: 0.003419593, y: 8.7037777e-13, z: -9.834504e-12}
+      rotation: {x: 0.9991658, y: -0.0008128877, z: 0.040829595, w: -0.00006129403}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:RingFinger3_L
+      parentName: Rig2:RingFinger2_L
+      position: {x: 0.0016807903, y: -5.309558e-13, z: -0.000000036196017}
+      rotation: {x: 0.00000024674503, y: 0.00001037865, z: -0.0001569168, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:RingFinger4_L
+      parentName: Rig2:RingFinger3_L
+      position: {x: 0.0019585984, y: -6.2352565e-13, z: -0.000000018149105}
+      rotation: {x: 0.00000015157862, y: 0.0000046270548, z: -7.013625e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:MiddleFinger1_L
+      parentName: Rig2:Fingers1_L
+      position: {x: -0.0000003965088, y: -2.5512925e-15, z: 0.0000031416935}
+      rotation: {x: -0.026225138, y: -0.057570174, z: 0.41679087, w: 0.90679836}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:MiddleFinger2_L
+      parentName: Rig2:MiddleFinger1_L
+      position: {x: 0.0007086969, y: -0.00000000305835, z: 0.0000000086109875}
+      rotation: {x: -0.00000017161673, y: -0.0000089743935, z: -1.5401563e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:MiddleFinger3_L
+      parentName: Rig2:MiddleFinger2_L
+      position: {x: 0.0007086969, y: 5.7954175e-12, z: 0.0000000063910335}
+      rotation: {x: -0.000000054938198, y: -0.000009015447, z: -4.952924e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:MiddleFinger4_L
+      parentName: Rig2:MiddleFinger3_L
+      position: {x: 0.0007086969, y: -2.2335063e-13, z: 0.0000000063910335}
+      rotation: {x: -0.000000010869237, y: -0.000013528027, z: -1.4703934e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:PinkyFinger1_L
+      parentName: Rig2:Fingers1_L
+      position: {x: 0.00026054587, y: -0.00028469457, z: -0.0022622973}
+      rotation: {x: 0.08562666, y: 0.027828487, z: 0.42439723, w: 0.9009887}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:PinkyFinger2_L
+      parentName: Rig2:PinkyFinger1_L
+      position: {x: 0.0014834093, y: -4.8964996e-14, z: -4.2661773e-12}
+      rotation: {x: 0.00000014901154, y: -0.039364118, z: 0.0000009412174, w: 0.999225}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:PinkyFinger3_L
+      parentName: Rig2:PinkyFinger2_L
+      position: {x: 0.0013332191, y: -1.8873374e-13, z: -3.8342415e-12}
+      rotation: {x: 0.00000003542427, y: 0.010558054, z: -0.000000017129004, w: 0.99994427}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:PinkyFinger4_L
+      parentName: Rig2:PinkyFinger3_L
+      position: {x: 0.0015571092, y: 1.6253153e-11, z: 0.000010373663}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Tail0_M
+      parentName: Rig2:Root_M
+      position: {x: 0.0037436166, y: -0.001332217, z: 3.8511747e-10}
+      rotation: {x: 0.1355742, y: 0.99076724, z: -6.8968526e-17, w: 5.2365473e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Tail1_M
+      parentName: Rig2:Tail0_M
+      position: {x: -0.009087835, y: 8.881784e-18, z: 4.7494682e-11}
+      rotation: {x: 0, y: 0, z: 0.04717398, w: 0.9988867}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Tail2_M
+      parentName: Rig2:Tail1_M
+      position: {x: -0.0090739755, y: -1.5543122e-17, z: 5.663576e-11}
+      rotation: {x: 0, y: 0, z: 0.2983646, w: 0.954452}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Tail3_M
+      parentName: Rig2:Tail2_M
+      position: {x: -0.00596224, y: 1.3877788e-17, z: 6.617344e-11}
+      rotation: {x: 0, y: 0, z: 0.48859578, w: 0.87251025}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Tail4_M
+      parentName: Rig2:Tail3_M
+      position: {x: -0.0055602407, y: 2.2204459e-17, z: 5.6228903e-11}
+      rotation: {x: 0, y: 0, z: 0.2903247, w: 0.9569282}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Tail5_M
+      parentName: Rig2:Tail4_M
+      position: {x: -0.0051560127, y: -1.7763568e-17, z: 2.3814136e-11}
+      rotation: {x: 0, y: 0, z: 0.53888726, w: 0.8423779}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Tail6_M
+      parentName: Rig2:Tail5_M
+      position: {x: -0.006208076, y: 4.440892e-18, z: -5.160752e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Hip_R
+      parentName: Rig2:Root_M
+      position: {x: -0.0037582438, y: 0.002743272, z: -0.009775201}
+      rotation: {x: 0.09050483, y: 0.96618426, z: -0.23173769, w: -0.067782216}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Knee_R
+      parentName: Rig2:Hip_R
+      position: {x: -0.007058102, y: 2.7755576e-17, z: -2.6645352e-17}
+      rotation: {x: 0, y: 0, z: 0.23554161, w: 0.9718643}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Ankle_R
+      parentName: Rig2:Knee_R
+      position: {x: -0.004004181, y: 1.9428903e-18, z: 4.440892e-18}
+      rotation: {x: -0.02651516, y: -0.30979562, z: -0.7582046, w: 0.57310516}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Toes1_R
+      parentName: Rig2:Ankle_R
+      position: {x: -0.00245704, y: 2.7755575e-19, z: 8.881784e-18}
+      rotation: {x: -0.109054975, y: -0.10908408, z: -0.60033494, w: 0.78473294}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Toes2_R
+      parentName: Rig2:Toes1_R
+      position: {x: -0.00728074, y: 3.0531133e-18, z: -1.11022296e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IndexToe1_R
+      parentName: Rig2:Toes1_R
+      position: {x: -0.0023239048, y: -0.00044163706, z: -0.0013678238}
+      rotation: {x: -0.010246139, y: -0.17688353, z: -0.03000959, w: 0.98372084}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IndexToe2_R
+      parentName: Rig2:IndexToe1_R
+      position: {x: -0.0014975232, y: -5.551115e-19, z: 2.3963674e-12}
+      rotation: {x: 0.0006923971, y: 0.0066649453, z: 0.00633124, w: 0.9999575}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IndexToe3_R
+      parentName: Rig2:IndexToe2_R
+      position: {x: -0.0018030658, y: 1.110223e-18, z: 3.2601521e-12}
+      rotation: {x: 0.00031464302, y: 0.0019346272, z: 0.0513563, w: 0.9986785}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IndexToe4_R
+      parentName: Rig2:IndexToe3_R
+      position: {x: -0.0015128293, y: -9.714452e-19, z: 5.2650904e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:MiddleToe1_R
+      parentName: Rig2:Toes1_R
+      position: {x: 1.0635801e-11, y: -1.3588444e-12, z: 1.6169977e-12}
+      rotation: {x: 0.0063760625, y: -0.075166315, z: -0.0775116, w: 0.9941335}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:MiddleToe2_R
+      parentName: Rig2:MiddleToe1_R
+      position: {x: -0.0007086969, y: 0.0000000061158207, z: 0.000000008275653}
+      rotation: {x: 3.2360354e-12, y: 0.0000014998519, z: -0.0000021575702, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:MiddleToe3_R
+      parentName: Rig2:MiddleToe2_R
+      position: {x: -0.0007086969, y: 0.0000000030576943, z: 0.000000006160705}
+      rotation: {x: -0.00000058461234, y: 0.0000072518073, z: -0.0000043148334, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:MiddleToe4_R
+      parentName: Rig2:MiddleToe3_R
+      position: {x: -0.0007086969, y: 1.9428903e-17, z: 1.093216e-11}
+      rotation: {x: -0.00000019216425, y: 0.0000029130179, z: -0.0000021575684, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:PinkyToe1_R
+      parentName: Rig2:Toes1_R
+      position: {x: -0.0013937579, y: -0.00073672814, z: 0.0023080783}
+      rotation: {x: 0.02342818, y: 0.14745359, z: -0.07416185, w: 0.9860064}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:PinkyToe2_R
+      parentName: Rig2:PinkyToe1_R
+      position: {x: -0.0015916182, y: 3.8857806e-18, z: 4.440892e-18}
+      rotation: {x: -0.00249909, y: -0.04276803, z: 0.058282472, w: 0.9973805}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:PinkyToe3_R
+      parentName: Rig2:PinkyToe2_R
+      position: {x: -0.0016107591, y: -1.3877787e-18, z: -1.11022296e-17}
+      rotation: {x: 0.000083551866, y: 0.0005045492, z: 0.04735568, w: 0.998878}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:PinkyToe4_R
+      parentName: Rig2:PinkyToe3_R
+      position: {x: -0.0022547755, y: -2.7891577e-15, z: -5.723755e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:RingToe1_R
+      parentName: Rig2:Toes1_R
+      position: {x: 0.0029956638, y: -0.0015082125, z: 0.00096003077}
+      rotation: {x: 0.21738547, y: 0.97316664, z: 0.016946547, w: 0.07350544}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:RingToe2_R
+      parentName: Rig2:RingToe1_R
+      position: {x: -0.0012533439, y: -7.8215213e-16, z: -0.000000003620521}
+      rotation: {x: -0.0026151673, y: -0.013366056, z: -0.09054755, w: 0.995799}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:RingToe3_R
+      parentName: Rig2:RingToe2_R
+      position: {x: -0.0015542574, y: 1.5408369e-11, z: -2.2204459e-17}
+      rotation: {x: -0.00025947328, y: -0.00429532, z: -0.04224035, w: 0.99909824}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:RingToe4_R
+      parentName: Rig2:RingToe3_R
+      position: {x: -0.0011751654, y: -2.4980017e-18, z: 4.440892e-18}
+      rotation: {x: -0.00000010529326, y: -0.000000013123391, z: -1.3818047e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Hip_L
+      parentName: Rig2:Root_M
+      position: {x: -0.0037582456, y: 0.0027432723, z: 0.0097752}
+      rotation: {x: 0.9661843, y: -0.09050488, z: 0.06778227, w: -0.23173757}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Knee_L
+      parentName: Rig2:Hip_L
+      position: {x: 0.007058102, y: -2.3592238e-17, z: 3.1086245e-17}
+      rotation: {x: 0, y: 0, z: 0.23554128, w: 0.97186434}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Ankle_L
+      parentName: Rig2:Knee_L
+      position: {x: 0.004004181, y: 4.440892e-18, z: -2.220446e-18}
+      rotation: {x: -0.026514852, y: -0.3097958, z: -0.7582046, w: 0.57310504}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Toes1_L
+      parentName: Rig2:Ankle_L
+      position: {x: 0.00245704, y: -1.3877787e-18, z: 4.440892e-18}
+      rotation: {x: -0.10905494, y: -0.1090841, z: -0.60033494, w: 0.7847329}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Toes2_L
+      parentName: Rig2:Toes1_L
+      position: {x: 0.00728074, y: 3.0531133e-18, z: 6.661338e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IndexToe1_L
+      parentName: Rig2:Toes1_L
+      position: {x: 0.0023239048, y: 0.00044163706, z: 0.0013678238}
+      rotation: {x: -0.010246139, y: -0.17688353, z: -0.030009596, w: 0.98372084}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IndexToe2_L
+      parentName: Rig2:IndexToe1_L
+      position: {x: 0.0014975232, y: 2.359224e-18, z: -2.3963698e-12}
+      rotation: {x: 0.00069239584, y: 0.0066649453, z: 0.006331234, w: 0.9999575}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IndexToe3_L
+      parentName: Rig2:IndexToe2_L
+      position: {x: 0.0018030658, y: -1.6653345e-18, z: -3.2601521e-12}
+      rotation: {x: 0.0003146418, y: 0.0019346274, z: 0.05135629, w: 0.9986785}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:IndexToe4_L
+      parentName: Rig2:IndexToe3_L
+      position: {x: 0.0015128293, y: 2.359224e-18, z: -5.2650926e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:MiddleToe1_L
+      parentName: Rig2:Toes1_L
+      position: {x: -1.0635803e-11, y: 1.3588441e-12, z: -1.6169977e-12}
+      rotation: {x: 0.0063764164, y: -0.07516181, z: -0.07751158, w: 0.99413383}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:MiddleToe2_L
+      parentName: Rig2:MiddleToe1_L
+      position: {x: 0.0007086969, y: -0.000000006117015, z: 0.0000000045744324}
+      rotation: {x: -1.2024124e-14, y: 0.0000021766734, z: 4.455117e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:MiddleToe3_L
+      parentName: Rig2:MiddleToe2_L
+      position: {x: 0.0007086969, y: -0.0000000061170105, z: 0.0000000140498715}
+      rotation: {x: -0.00000058014143, y: -0.000011523315, z: -0.0000064732485, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:MiddleToe4_L
+      parentName: Rig2:MiddleToe3_L
+      position: {x: 0.0007086969, y: -1.8873792e-17, z: 0.0000000064009718}
+      rotation: {x: -0.00000018908396, y: -0.000010650592, z: -0.0000021575709, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:RingToe1_L
+      parentName: Rig2:Toes1_L
+      position: {x: -0.0029956638, y: 0.0015082125, z: -0.00096003077}
+      rotation: {x: 0.21738543, y: 0.97316664, z: 0.01694666, w: 0.07350615}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:RingToe2_L
+      parentName: Rig2:RingToe1_L
+      position: {x: 0.0012533439, y: -3.4972025e-17, z: 2.0349626e-11}
+      rotation: {x: -0.0026148818, y: -0.01336458, z: -0.090547554, w: 0.99579906}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:RingToe3_L
+      parentName: Rig2:RingToe2_L
+      position: {x: 0.0015542574, y: -1.539297e-11, z: 2.8865798e-17}
+      rotation: {x: -0.00025943082, y: -0.004294576, z: -0.042240348, w: 0.99909824}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:RingToe4_L
+      parentName: Rig2:RingToe3_L
+      position: {x: 0.0011751654, y: 1.8041123e-18, z: -2.220446e-18}
+      rotation: {x: -0.000000094657956, y: 0.00000074482153, z: 7.050329e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:PinkyToe1_L
+      parentName: Rig2:Toes1_L
+      position: {x: 0.0013937579, y: 0.00073672814, z: -0.0023080783}
+      rotation: {x: 0.02342818, y: 0.14745359, z: -0.07416185, w: 0.9860064}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:PinkyToe2_L
+      parentName: Rig2:PinkyToe1_L
+      position: {x: 0.0015916182, y: -4.718448e-18, z: -2.220446e-18}
+      rotation: {x: -0.00249909, y: -0.04276803, z: 0.058282472, w: 0.9973805}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:PinkyToe3_L
+      parentName: Rig2:PinkyToe2_L
+      position: {x: 0.0016107591, y: 2.220446e-18, z: 6.661338e-18}
+      rotation: {x: 0.000083551866, y: 0.0005045492, z: 0.04735568, w: 0.998878}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:PinkyToe4_L
+      parentName: Rig2:PinkyToe3_L
+      position: {x: 0.0022547755, y: 2.7905456e-15, z: 5.7237326e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig2:Cube
+      parentName: Attack(Clone)
+      position: {x: -0, y: -0.0011015051, z: 0}
+      rotation: {x: 0.50000006, y: 0.49999997, z: 0.50000006, w: -0.49999997}
+      scale: {x: 1.1759075, y: 1.1759075, z: 1.1759075}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

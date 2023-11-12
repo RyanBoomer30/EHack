@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 7da19e220beeb4244a767ca8dd172ec9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Snake_Rig:Snake
+    100004: Snake_Rig:snake
+    100006: Snake_Rig:Snake_Cap_AuxSHJnt
+    100008: Snake_Rig:Snake_Clap_01_01SHJnt
+    100010: Snake_Rig:Snake_Clap_01_02SHJnt
+    100012: Snake_Rig:Snake_Clap_01_03SHJnt
+    100014: Snake_Rig:Snake_Clap_01_04SHJnt
+    100016: Snake_Rig:Snake_Head_JawEndSHJnt
+    100018: Snake_Rig:Snake_Head_JawSHJnt
+    100020: Snake_Rig:Snake_Head_TopSHJnt
+    100022: Snake_Rig:Snake_l_Hood_01_01SHJnt
+    100024: Snake_Rig:Snake_l_Hood_01_02SHJnt
+    100026: Snake_Rig:Snake_l_Hood_01_03SHJnt
+    100028: Snake_Rig:Snake_MAIN_Ctrl
+    100030: Snake_Rig:Snake_MAIN_Ctrl_RestPoseGrp
+    100032: Snake_Rig:Snake_MAIN_Inner_Ctrl
+    100034: Snake_Rig:Snake_MAIN_Inner_Ctrl_RestPoseGrp
+    100036: Snake_Rig:Snake_MAIN_Offset_Ctrl
+    100038: Snake_Rig:Snake_MAIN_Offset_Ctrl_RestPoseGrp
+    100040: Snake_Rig:Snake_Neck_01SHJnt
+    100042: Snake_Rig:Snake_Neck_02SHJnt
+    100044: Snake_Rig:Snake_Neck_03SHJnt
+    100046: Snake_Rig:Snake_Neck_TopSHJnt
+    100048: Snake_Rig:Snake_Potq_AuxSHJnt
+    100050: Snake_Rig:Snake_r_Hood_01_01SHJnt
+    100052: Snake_Rig:Snake_r_Hood_01_02SHJnt
+    100054: Snake_Rig:Snake_r_Hood_01_03SHJnt
+    100056: Snake_Rig:Snake_ROOT_Ctrl
+    100058: Snake_Rig:Snake_ROOT_Ctrl_RestPoseGrp
+    100060: Snake_Rig:Snake_ROOT_CtrlGrp
+    100062: Snake_Rig:Snake_ROOTGrp
+    100064: Snake_Rig:Snake_ROOTJnt
+    100066: Snake_Rig:Snake_ROOTParent_CtrlGrp2
+    100068: Snake_Rig:Snake_ROOTSecondary_Ctrl
+    100070: Snake_Rig:Snake_ROOTSecondary_Ctrl_RestPoseGrp
+    100072: Snake_Rig:Snake_ROOTSHJnt
+    100074: Snake_Rig:Snake_SHJntGrp
+    100076: Snake_Rig:Snake_Spine_01_01SHJnt
+    100078: Snake_Rig:Snake_Spine_01_02SHJnt
+    100080: Snake_Rig:Snake_Spine_01_03SHJnt
+    100082: Snake_Rig:Snake_Spine_01_04SHJnt
+    100084: Snake_Rig:Snake_Spine_01_05SHJnt
+    400000: //RootNode
+    400002: Snake_Rig:Snake
+    400004: Snake_Rig:snake
+    400006: Snake_Rig:Snake_Cap_AuxSHJnt
+    400008: Snake_Rig:Snake_Clap_01_01SHJnt
+    400010: Snake_Rig:Snake_Clap_01_02SHJnt
+    400012: Snake_Rig:Snake_Clap_01_03SHJnt
+    400014: Snake_Rig:Snake_Clap_01_04SHJnt
+    400016: Snake_Rig:Snake_Head_JawEndSHJnt
+    400018: Snake_Rig:Snake_Head_JawSHJnt
+    400020: Snake_Rig:Snake_Head_TopSHJnt
+    400022: Snake_Rig:Snake_l_Hood_01_01SHJnt
+    400024: Snake_Rig:Snake_l_Hood_01_02SHJnt
+    400026: Snake_Rig:Snake_l_Hood_01_03SHJnt
+    400028: Snake_Rig:Snake_MAIN_Ctrl
+    400030: Snake_Rig:Snake_MAIN_Ctrl_RestPoseGrp
+    400032: Snake_Rig:Snake_MAIN_Inner_Ctrl
+    400034: Snake_Rig:Snake_MAIN_Inner_Ctrl_RestPoseGrp
+    400036: Snake_Rig:Snake_MAIN_Offset_Ctrl
+    400038: Snake_Rig:Snake_MAIN_Offset_Ctrl_RestPoseGrp
+    400040: Snake_Rig:Snake_Neck_01SHJnt
+    400042: Snake_Rig:Snake_Neck_02SHJnt
+    400044: Snake_Rig:Snake_Neck_03SHJnt
+    400046: Snake_Rig:Snake_Neck_TopSHJnt
+    400048: Snake_Rig:Snake_Potq_AuxSHJnt
+    400050: Snake_Rig:Snake_r_Hood_01_01SHJnt
+    400052: Snake_Rig:Snake_r_Hood_01_02SHJnt
+    400054: Snake_Rig:Snake_r_Hood_01_03SHJnt
+    400056: Snake_Rig:Snake_ROOT_Ctrl
+    400058: Snake_Rig:Snake_ROOT_Ctrl_RestPoseGrp
+    400060: Snake_Rig:Snake_ROOT_CtrlGrp
+    400062: Snake_Rig:Snake_ROOTGrp
+    400064: Snake_Rig:Snake_ROOTJnt
+    400066: Snake_Rig:Snake_ROOTParent_CtrlGrp2
+    400068: Snake_Rig:Snake_ROOTSecondary_Ctrl
+    400070: Snake_Rig:Snake_ROOTSecondary_Ctrl_RestPoseGrp
+    400072: Snake_Rig:Snake_ROOTSHJnt
+    400074: Snake_Rig:Snake_SHJntGrp
+    400076: Snake_Rig:Snake_Spine_01_01SHJnt
+    400078: Snake_Rig:Snake_Spine_01_02SHJnt
+    400080: Snake_Rig:Snake_Spine_01_03SHJnt
+    400082: Snake_Rig:Snake_Spine_01_04SHJnt
+    400084: Snake_Rig:Snake_Spine_01_05SHJnt
+    2100000: Snake_Rig_snake
+    4300000: Snake_Rig:snake
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Snake_Rig:snake
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
