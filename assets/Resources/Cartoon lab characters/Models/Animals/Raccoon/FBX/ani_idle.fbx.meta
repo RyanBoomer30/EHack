@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: d90c8cfd37c002b4a8f40d1db71d0863
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Racoon_Rig:Racoon
+    100004: Racoon_Rig:Racoon_Gun_AuxSHJnt
+    100006: Racoon_Rig:Racoon_Head_JawEndSHJnt
+    100008: Racoon_Rig:Racoon_Head_JawSHJnt
+    100010: Racoon_Rig:Racoon_Head_TopSHJnt
+    100012: Racoon_Rig:Racoon_l_Clavicle_AuxSHJnt
+    100014: Racoon_Rig:Racoon_l_FrontLeg_AnkleSHJnt
+    100016: Racoon_Rig:Racoon_l_FrontLeg_BallSHJnt
+    100018: Racoon_Rig:Racoon_l_FrontLeg_HipSHJnt
+    100020: Racoon_Rig:Racoon_l_FrontLeg_KneeSHJnt
+    100022: Racoon_Rig:Racoon_l_FrontLeg_ToeSHJnt
+    100024: Racoon_Rig:Racoon_l_HindLeg_AnkleSHJnt
+    100026: Racoon_Rig:Racoon_l_HindLeg_BallSHJnt
+    100028: Racoon_Rig:Racoon_l_HindLeg_HipSHJnt
+    100030: Racoon_Rig:Racoon_l_HindLeg_Knee1SHJnt
+    100032: Racoon_Rig:Racoon_l_HindLeg_Knee2SHJnt
+    100034: Racoon_Rig:Racoon_l_HindLeg_ToeSHJnt
+    100036: Racoon_Rig:Racoon_MAIN_Ctrl
+    100038: Racoon_Rig:Racoon_MAIN_Ctrl_RestPoseGrp
+    100040: Racoon_Rig:Racoon_MAIN_Inner_Ctrl
+    100042: Racoon_Rig:Racoon_MAIN_Inner_Ctrl_RestPoseGrp
+    100044: Racoon_Rig:Racoon_MAIN_Offset_Ctrl
+    100046: Racoon_Rig:Racoon_MAIN_Offset_Ctrl_RestPoseGrp
+    100048: Racoon_Rig:Racoon_Neck_01SHJnt
+    100050: Racoon_Rig:Racoon_Neck_TopSHJnt
+    100052: Racoon_Rig:Racoon_r_Clavicle_AuxSHJnt
+    100054: Racoon_Rig:Racoon_r_FrontLeg_AnkleSHJnt
+    100056: Racoon_Rig:Racoon_r_FrontLeg_BallSHJnt
+    100058: Racoon_Rig:Racoon_r_FrontLeg_HipSHJnt
+    100060: Racoon_Rig:Racoon_r_FrontLeg_KneeSHJnt
+    100062: Racoon_Rig:Racoon_r_FrontLeg_ToeSHJnt
+    100064: Racoon_Rig:Racoon_r_HindLeg_AnkleSHJnt
+    100066: Racoon_Rig:Racoon_r_HindLeg_BallSHJnt
+    100068: Racoon_Rig:Racoon_r_HindLeg_HipSHJnt
+    100070: Racoon_Rig:Racoon_r_HindLeg_Knee1SHJnt
+    100072: Racoon_Rig:Racoon_r_HindLeg_Knee2SHJnt
+    100074: Racoon_Rig:Racoon_r_HindLeg_ToeSHJnt
+    100076: Racoon_Rig:Racoon_ROOT_Ctrl
+    100078: Racoon_Rig:Racoon_ROOT_Ctrl_RestPoseGrp
+    100080: Racoon_Rig:Racoon_ROOT_CtrlGrp
+    100082: Racoon_Rig:Racoon_ROOTGrp
+    100084: Racoon_Rig:Racoon_ROOTJnt
+    100086: Racoon_Rig:Racoon_ROOTParent_CtrlGrp2
+    100088: Racoon_Rig:Racoon_ROOTSecondary_Ctrl
+    100090: Racoon_Rig:Racoon_ROOTSecondary_Ctrl_RestPoseGrp
+    100092: Racoon_Rig:Racoon_ROOTSHJnt
+    100094: Racoon_Rig:Racoon_SHJntGrp
+    100096: Racoon_Rig:Racoon_Spine_01SHJnt
+    100098: Racoon_Rig:Racoon_Spine_02SHJnt
+    100100: Racoon_Rig:Racoon_Spine_03SHJnt
+    100102: Racoon_Rig:Racoon_Spine_TopSHJnt
+    100104: Racoon_Rig:Racoon_Tail_01_01SHJnt
+    100106: Racoon_Rig:Racoon_Tail_01_02SHJnt
+    100108: Racoon_Rig:Racoon_Tail_01_03SHJnt
+    100110: Racoon_Rig:Racoon_Tail_01_04SHJnt
+    100112: Racoon_Rig:Racoon_Tail_01_05SHJnt
+    100114: Racoon_Rig:sk_racoon
+    400000: //RootNode
+    400002: Racoon_Rig:Racoon
+    400004: Racoon_Rig:Racoon_Gun_AuxSHJnt
+    400006: Racoon_Rig:Racoon_Head_JawEndSHJnt
+    400008: Racoon_Rig:Racoon_Head_JawSHJnt
+    400010: Racoon_Rig:Racoon_Head_TopSHJnt
+    400012: Racoon_Rig:Racoon_l_Clavicle_AuxSHJnt
+    400014: Racoon_Rig:Racoon_l_FrontLeg_AnkleSHJnt
+    400016: Racoon_Rig:Racoon_l_FrontLeg_BallSHJnt
+    400018: Racoon_Rig:Racoon_l_FrontLeg_HipSHJnt
+    400020: Racoon_Rig:Racoon_l_FrontLeg_KneeSHJnt
+    400022: Racoon_Rig:Racoon_l_FrontLeg_ToeSHJnt
+    400024: Racoon_Rig:Racoon_l_HindLeg_AnkleSHJnt
+    400026: Racoon_Rig:Racoon_l_HindLeg_BallSHJnt
+    400028: Racoon_Rig:Racoon_l_HindLeg_HipSHJnt
+    400030: Racoon_Rig:Racoon_l_HindLeg_Knee1SHJnt
+    400032: Racoon_Rig:Racoon_l_HindLeg_Knee2SHJnt
+    400034: Racoon_Rig:Racoon_l_HindLeg_ToeSHJnt
+    400036: Racoon_Rig:Racoon_MAIN_Ctrl
+    400038: Racoon_Rig:Racoon_MAIN_Ctrl_RestPoseGrp
+    400040: Racoon_Rig:Racoon_MAIN_Inner_Ctrl
+    400042: Racoon_Rig:Racoon_MAIN_Inner_Ctrl_RestPoseGrp
+    400044: Racoon_Rig:Racoon_MAIN_Offset_Ctrl
+    400046: Racoon_Rig:Racoon_MAIN_Offset_Ctrl_RestPoseGrp
+    400048: Racoon_Rig:Racoon_Neck_01SHJnt
+    400050: Racoon_Rig:Racoon_Neck_TopSHJnt
+    400052: Racoon_Rig:Racoon_r_Clavicle_AuxSHJnt
+    400054: Racoon_Rig:Racoon_r_FrontLeg_AnkleSHJnt
+    400056: Racoon_Rig:Racoon_r_FrontLeg_BallSHJnt
+    400058: Racoon_Rig:Racoon_r_FrontLeg_HipSHJnt
+    400060: Racoon_Rig:Racoon_r_FrontLeg_KneeSHJnt
+    400062: Racoon_Rig:Racoon_r_FrontLeg_ToeSHJnt
+    400064: Racoon_Rig:Racoon_r_HindLeg_AnkleSHJnt
+    400066: Racoon_Rig:Racoon_r_HindLeg_BallSHJnt
+    400068: Racoon_Rig:Racoon_r_HindLeg_HipSHJnt
+    400070: Racoon_Rig:Racoon_r_HindLeg_Knee1SHJnt
+    400072: Racoon_Rig:Racoon_r_HindLeg_Knee2SHJnt
+    400074: Racoon_Rig:Racoon_r_HindLeg_ToeSHJnt
+    400076: Racoon_Rig:Racoon_ROOT_Ctrl
+    400078: Racoon_Rig:Racoon_ROOT_Ctrl_RestPoseGrp
+    400080: Racoon_Rig:Racoon_ROOT_CtrlGrp
+    400082: Racoon_Rig:Racoon_ROOTGrp
+    400084: Racoon_Rig:Racoon_ROOTJnt
+    400086: Racoon_Rig:Racoon_ROOTParent_CtrlGrp2
+    400088: Racoon_Rig:Racoon_ROOTSecondary_Ctrl
+    400090: Racoon_Rig:Racoon_ROOTSecondary_Ctrl_RestPoseGrp
+    400092: Racoon_Rig:Racoon_ROOTSHJnt
+    400094: Racoon_Rig:Racoon_SHJntGrp
+    400096: Racoon_Rig:Racoon_Spine_01SHJnt
+    400098: Racoon_Rig:Racoon_Spine_02SHJnt
+    400100: Racoon_Rig:Racoon_Spine_03SHJnt
+    400102: Racoon_Rig:Racoon_Spine_TopSHJnt
+    400104: Racoon_Rig:Racoon_Tail_01_01SHJnt
+    400106: Racoon_Rig:Racoon_Tail_01_02SHJnt
+    400108: Racoon_Rig:Racoon_Tail_01_03SHJnt
+    400110: Racoon_Rig:Racoon_Tail_01_04SHJnt
+    400112: Racoon_Rig:Racoon_Tail_01_05SHJnt
+    400114: Racoon_Rig:sk_racoon
+    2100000: Racoon_Rig_Material.001
+    4300000: Racoon_Rig:sk_racoon
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Racoon_Rig:sk_racoon
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
