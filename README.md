@@ -9,6 +9,9 @@ https://www.youtube.com/watch?v=T2y_8PhzWdU&list=PL-2EBeDYMIbTJliOGvyS7yDqYdKfhz
 - Lucas
 - Sylas
 
+# How to run:
+
+
 
 # Plan:
 - We are going to use OpenAI Assistants API to create a virtual laboratory
